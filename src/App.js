@@ -9,6 +9,7 @@ function App() {
           <p>
             <h1> Azis Rizkil </h1>
             <h2> Kelompok Amazon </h2>
+            <h3> Saya Azis Rizkil berasal dari Bandung, asal sekolah SMK TI GARUDA NUSANTARA jurusan RPL </h3>
           </p>
           <a
             className="App-link"
